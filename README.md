@@ -11,8 +11,8 @@ This a modified version of the Official Dockerfile found [here](https://github.c
 ## Docker Images
 Pre-built docker images can be found on my Dockerhub [here](https://hub.docker.com/r/jamesgarside/Logstash/).
 
-- [Logstash 7.10.0](https://hub.docker.com/r/jamesgarside/Logstash/tags)
-- [Logstash 7.9.3](https://hub.docker.com/r/jamesgarside/Logstash/tags)
+- [Logstash 7.10.0](https://hub.docker.com/r/jamesgarside/logstash/tags)
+- [Logstash 7.9.3](https://hub.docker.com/r/jamesgarside/logstash/tags)
 
 ## Usage
 A basic `Docker-coompose.yml` file has been included with is repo to allow for basic testing. It will create one Logstash instance.
