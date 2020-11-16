@@ -5,11 +5,11 @@ If the build you are looking for isn’t here please contact me.
 Feel free to branch and update yourselves. 
 
 ## Docker Description
-This a modified version of the Official Dockerfile found [here](https://github.com/elastic/dockerfiles/blob/7.10/Logstash/Dockerfile)
+This a modified version of the Official Dockerfile found [here](https://github.com/elastic/dockerfiles/blob/7.10/logstash/Dockerfile)
 
 
 ## Docker Images
-Pre-built docker images can be found on my Dockerhub [here](https://hub.docker.com/r/jamesgarside/Logstash/).
+Pre-built docker images can be found on my Dockerhub [here](https://hub.docker.com/r/jamesgarside/logstash/).
 
 - [Logstash 7.10.0](https://hub.docker.com/r/jamesgarside/logstash/tags)
 - [Logstash 7.9.3](https://hub.docker.com/r/jamesgarside/logstash/tags)
