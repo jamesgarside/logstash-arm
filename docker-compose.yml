@@ -4,6 +4,8 @@ services:
     image: jamesgarside/logstash:7.10.0
     environment:
       NODE_NAME: logstash
+      CONFIG_RELOAD_AUTOMATIC: 'true'
+      XPACK_MONITORING_ELASTICSEARCH_HOSTS: https://es01:9200
     networks:
       - elastic
     ports: 
